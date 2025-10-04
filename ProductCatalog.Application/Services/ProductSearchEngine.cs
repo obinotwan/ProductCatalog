@@ -11,6 +11,7 @@ namespace ProductCatalog.Application.Services
 {
     public class ProductSearchEngine : IProductSearchEngine
     {
+        //
         public Task<IEnumerable<SearchResultDTO<Product>>> SearchAsync(string query, IEnumerable<Product> products)
         {
             if (string.IsNullOrEmpty(query))
