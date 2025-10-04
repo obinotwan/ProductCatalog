@@ -73,18 +73,37 @@ namespace ProductCatalog.Application.Services
 
             var fieldLower = fieldValue.ToLowerInvariant();
 
+            // 1. Exact match on full field - highest score
             if (fieldLower.Equals(query, StringComparison.OrdinalIgnoreCase))
                 return weights.ExactMatch;
 
+            // 2. Starts with - high score
             if (fieldLower.StartsWith(query, StringComparison.OrdinalIgnoreCase))
                 return weights.StartsWith;
 
+            // 3. Contains - medium score
             if (fieldLower.Contains(query, StringComparison.OrdinalIgnoreCase))
                 return weights.Contains;
 
-            // 4. Fuzzy match - uses Levenshtein distance
-            var fuzzyScore = FuzzyMatch(query, fieldLower);
-            return fuzzyScore * weights.FuzzyMatch;
+            // 4. Fuzzy match - check against individual words AND full field
+            double bestFuzzyScore = 0;
+
+            // Split field into words and check each word
+            var words = fieldLower.Split(new[] { ' ', '-', '_' }, StringSplitOptions.RemoveEmptyEntries);
+
+            foreach (var word in words)
+            {
+                var wordScore = FuzzyMatch(query, word);
+                if (wordScore > bestFuzzyScore)
+                    bestFuzzyScore = wordScore;
+            }
+
+            // Also check against full field (for single-word searches)
+            var fullFieldScore = FuzzyMatch(query, fieldLower);
+            if (fullFieldScore > bestFuzzyScore)
+                bestFuzzyScore = fullFieldScore;
+
+            return bestFuzzyScore * weights.FuzzyMatch;
         }
 
         private double FuzzyMatch(string query, string target)
@@ -96,6 +115,8 @@ namespace ProductCatalog.Application.Services
 
             // Convert distance to similarity (0 distance = 1.0 similarity)
             var similarity = 1.0 - ((double)distance / maxLength);
+
+            Console.WriteLine($"Fuzzy: '{query}' vs '{target}' = distance:{distance}, similarity:{similarity:F2}");
 
             // Only return score if similarity is above threshold
             return similarity > 0.6 ? similarity : 0;
