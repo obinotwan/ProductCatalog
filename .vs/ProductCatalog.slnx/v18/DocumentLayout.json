@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFBE67D-8BF8-4011-9292-253E5E03D905}|ProductCatalog\\ProductCatalog.API.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFBE67D-8BF8-4011-9292-253E5E03D905}|ProductCatalog\\ProductCatalog.API.csproj|solutionrelative:productcatalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFBE67D-8BF8-4011-9292-253E5E03D905}|ProductCatalog\\ProductCatalog.API.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFBE67D-8BF8-4011-9292-253E5E03D905}|ProductCatalog\\ProductCatalog.API.csproj|solutionrelative:productcatalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFBE67D-8BF8-4011-9292-253E5E03D905}|ProductCatalog\\ProductCatalog.API.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFBE67D-8BF8-4011-9292-253E5E03D905}|ProductCatalog\\ProductCatalog.API.csproj|solutionrelative:productcatalog\\middleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFBE67D-8BF8-4011-9292-253E5E03D905}|ProductCatalog\\ProductCatalog.API.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFBE67D-8BF8-4011-9292-253E5E03D905}|ProductCatalog\\ProductCatalog.API.csproj|solutionrelative:productcatalog\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFBE67D-8BF8-4011-9292-253E5E03D905}|ProductCatalog\\ProductCatalog.API.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FFBE67D-8BF8-4011-9292-253E5E03D905}|ProductCatalog\\ProductCatalog.API.csproj|solutionrelative:productcatalog\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FFBE67D-8BF8-4011-9292-253E5E03D905}|ProductCatalog\\ProductCatalog.API.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog\\productcatalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FFBE67D-8BF8-4011-9292-253E5E03D905}|ProductCatalog\\ProductCatalog.API.csproj|solutionrelative:productcatalog\\productcatalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649470FF-681B-412C-9217-08FE1D2FAFBE}|ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.infrastructure\\productcatalog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{649470FF-681B-412C-9217-08FE1D2FAFBE}|ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj|solutionrelative:productcatalog.infrastructure\\productcatalog.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649470FF-681B-412C-9217-08FE1D2FAFBE}|ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.infrastructure\\caching\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649470FF-681B-412C-9217-08FE1D2FAFBE}|ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj|solutionrelative:productcatalog.infrastructure\\caching\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649470FF-681B-412C-9217-08FE1D2FAFBE}|ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649470FF-681B-412C-9217-08FE1D2FAFBE}|ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj|solutionrelative:productcatalog.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649470FF-681B-412C-9217-08FE1D2FAFBE}|ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649470FF-681B-412C-9217-08FE1D2FAFBE}|ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj|solutionrelative:productcatalog.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649470FF-681B-412C-9217-08FE1D2FAFBE}|ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649470FF-681B-412C-9217-08FE1D2FAFBE}|ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj|solutionrelative:productcatalog.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|solutionrelative:productcatalog.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|solutionrelative:productcatalog.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CC02A9-E9DA-4469-8995-5BC662CE0066}|ProductCatalog.Domain\\ProductCatalog.Domain.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CC02A9-E9DA-4469-8995-5BC662CE0066}|ProductCatalog.Domain\\ProductCatalog.Domain.csproj|solutionrelative:productcatalog.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.application\\extensions\\productqueryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|solutionrelative:productcatalog.application\\extensions\\productqueryextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.application\\exceptions\\notfoundexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|solutionrelative:productcatalog.application\\exceptions\\notfoundexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|solutionrelative:productcatalog.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.application\\validators\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|solutionrelative:productcatalog.application\\validators\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.application\\services\\productsearchengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|solutionrelative:productcatalog.application\\services\\productsearchengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.application\\interfaces\\iproductsearchengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|solutionrelative:productcatalog.application\\interfaces\\iproductsearchengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|solutionrelative:productcatalog.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|solutionrelative:productcatalog.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.application\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|solutionrelative:productcatalog.application\\interfaces\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|solutionrelative:productcatalog.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0ED6B6-8F13-4EFF-B6C6-F93847425CC9}|ProductCatalog.Application\\ProductCatalog.Application.csproj|solutionrelative:productcatalog.application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CC02A9-E9DA-4469-8995-5BC662CE0066}|ProductCatalog.Domain\\ProductCatalog.Domain.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CC02A9-E9DA-4469-8995-5BC662CE0066}|ProductCatalog.Domain\\ProductCatalog.Domain.csproj|solutionrelative:productcatalog.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CC02A9-E9DA-4469-8995-5BC662CE0066}|ProductCatalog.Domain\\ProductCatalog.Domain.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CC02A9-E9DA-4469-8995-5BC662CE0066}|ProductCatalog.Domain\\ProductCatalog.Domain.csproj|solutionrelative:productcatalog.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CC02A9-E9DA-4469-8995-5BC662CE0066}|ProductCatalog.Domain\\ProductCatalog.Domain.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CC02A9-E9DA-4469-8995-5BC662CE0066}|ProductCatalog.Domain\\ProductCatalog.Domain.csproj|solutionrelative:productcatalog.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79CC02A9-E9DA-4469-8995-5BC662CE0066}|ProductCatalog.Domain\\ProductCatalog.Domain.csproj|c:\\users\\archimedes\\source\\repos\\productcatalog\\productcatalog.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79CC02A9-E9DA-4469-8995-5BC662CE0066}|ProductCatalog.Domain\\ProductCatalog.Domain.csproj|solutionrelative:productcatalog.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\Program.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog\\Program.cs",
+              "RelativeToolTip": "ProductCatalog\\Program.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAKsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:49:21.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog\\Middleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "ProductCatalog\\Middleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:48:59.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "ProductCatalog\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:48:11.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ProductCatalog\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:47:32.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCatalog.API",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog\\ProductCatalog.API.csproj",
+              "RelativeDocumentMoniker": "ProductCatalog\\ProductCatalog.API.csproj",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog\\ProductCatalog.API.csproj",
+              "RelativeToolTip": "ProductCatalog\\ProductCatalog.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-04T18:39:59.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductCatalog\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductCatalog\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvzQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:40:26.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Infrastructure\\Caching\\CacheService.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Infrastructure\\Caching\\CacheService.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Infrastructure\\Caching\\CacheService.cs",
+              "RelativeToolTip": "ProductCatalog.Infrastructure\\Caching\\CacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:32:04.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ProductCatalog.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:31:14.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductCatalog.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:29:50.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductCatalog.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj",
+              "RelativeToolTip": "ProductCatalog.Infrastructure\\ProductCatalog.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-04T18:28:01.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "ProductCatalog.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:28:56.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductQueryExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Extensions\\ProductQueryExtensions.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Application\\Extensions\\ProductQueryExtensions.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Extensions\\ProductQueryExtensions.cs",
+              "RelativeToolTip": "ProductCatalog.Application\\Extensions\\ProductQueryExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:11:04.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Application\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "ProductCatalog.Application\\Services\\CategoryService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAjwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:10:06.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductCatalog.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwGgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:07:54.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotFoundExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Exceptions\\NotFoundExceptions.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Application\\Exceptions\\NotFoundExceptions.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Exceptions\\NotFoundExceptions.cs",
+              "RelativeToolTip": "ProductCatalog.Application\\Exceptions\\NotFoundExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:03:54.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "ProductCatalog.Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:03:08.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Validators\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Application\\Validators\\ProductValidator.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Validators\\ProductValidator.cs",
+              "RelativeToolTip": "ProductCatalog.Application\\Validators\\ProductValidator.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T18:01:14.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "ProductCatalog.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:33:49.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductSearchEngine.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Services\\ProductSearchEngine.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Application\\Services\\ProductSearchEngine.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Services\\ProductSearchEngine.cs",
+              "RelativeToolTip": "ProductCatalog.Application\\Services\\ProductSearchEngine.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAIAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T17:12:43.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductSearchEngine.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Interfaces\\IProductSearchEngine.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Application\\Interfaces\\IProductSearchEngine.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Interfaces\\IProductSearchEngine.cs",
+              "RelativeToolTip": "ProductCatalog.Application\\Interfaces\\IProductSearchEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:57:41.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Interfaces\\ICacheService.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Application\\Interfaces\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Interfaces\\ICacheService.cs",
+              "RelativeToolTip": "ProductCatalog.Application\\Interfaces\\ICacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:58:15.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Application\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "ProductCatalog.Application\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:56:27.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ProductCatalog.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T16:55:15.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Application\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "ProductCatalog.Application\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:24:13.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Application\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Application\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "ProductCatalog.Application\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwBsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T15:12:01.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "ProductCatalog.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:34:42.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ProductCatalog.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:34:17.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "ProductCatalog.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:32:48.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCatalog.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\archimedes\\source\\repos\\ProductCatalog\\ProductCatalog.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductCatalog.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T13:32:36.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
