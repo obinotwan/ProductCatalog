@@ -2,5 +2,6 @@
   <Project Path="ProductCatalog.Application/ProductCatalog.Application.csproj" />
   <Project Path="ProductCatalog.Domain/ProductCatalog.Domain.csproj" />
   <Project Path="ProductCatalog.Infrastructure/ProductCatalog.Infrastructure.csproj" />
+  <Project Path="ProductCatalog.Tests/ProductCatalog.Tests.csproj" Id="b93582a8-1e65-4c83-96f2-53a3b7d409c1" />
   <Project Path="ProductCatalog/ProductCatalog.API.csproj" />
 </Solution>
