@@ -257,15 +257,15 @@ public record ProductDto(int Id, string Name, decimal Price);
 
 ## Trade-offs Summary
 
-| Decision | Pro | Con | Verdict |
-|----------|-----|-----|---------|
-| Multiple projects | Maintainable, testable | More complex | ✅ Worth it |
-| In-memory storage | Fast, simple | No persistence | ✅ Perfect for demo |
-| Fuzzy search | Great UX | CPU intensive | ✅ Acceptable |
-| Pattern matching | Readable | None | ✅ Clear win |
-| Record types | Concise, safe | None | ✅ Clear win |
-| Dictionary cache | Fast | Single server | ✅ Good for demo |
-| Custom middleware | Clean code | Initial effort | ✅ Best practice |
+| Decision | Pro | Con 
+|----------|-----|-----|
+| Multiple projects | Maintainable, testable | More complex |
+| In-memory storage | Fast, simple | No persistence | 
+| Fuzzy search | Great UX | CPU intensive | 
+| Pattern matching | Readable | None | 
+| Record types | Concise, safe | None | 
+| Dictionary cache | Fast | Single server | 
+| Custom middleware | Clean code | Initial effort | 
 
 ## Alternative Approaches Considered
 
