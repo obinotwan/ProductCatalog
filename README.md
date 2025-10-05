@@ -59,7 +59,7 @@ Set ProductCatalog.API as startup project (right-click → Set as Startup Projec
 Press F5 to run
 
 # Navigate to frontend directory
-Clone the front-end project: 
+Clone the front-end project: https://github.com/obinotwan/product-catalog-frontend.git
 
 cd product-catalog-frontend
 
