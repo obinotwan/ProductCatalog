@@ -29,7 +29,6 @@ namespace ProductCatalog.Infrastructure.Repositories
 
         /// <summary>
         /// Builds an inverted index for fast product name searches
-        /// Using Dictionary (requirement from PDF)
         /// </summary>
         private void IndexProduct(Product product)
         {

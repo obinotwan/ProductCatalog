@@ -8,7 +8,6 @@ namespace ProductCatalog.Application.Validators
     {
         public static ValidationResult Validate(CreateProductDTO product)
         {
-            // Using C# pattern matching for validation (requirement from PDF)
             var errors = new List<string>();
 
             // Name validation using pattern matching
@@ -20,7 +19,6 @@ namespace ProductCatalog.Application.Validators
             };
             if (nameValidation != null) errors.Add(nameValidation);
 
-            // SKU validation
             var skuValidation = product.SKU switch
             {
                 null or "" => "SKU is required",
@@ -29,7 +27,6 @@ namespace ProductCatalog.Application.Validators
             };
             if (skuValidation != null) errors.Add(skuValidation);
 
-            // Price validation with pattern matching
             var priceValidation = product.Price switch
             {
                 < 0 => "Price cannot be negative",
@@ -37,7 +34,6 @@ namespace ProductCatalog.Application.Validators
             };
             if (priceValidation != null) errors.Add(priceValidation);
 
-            // Quantity validation
             var quantityValidation = product.Quantity switch
             {
                 < 0 => "Quantity cannot be negative",
