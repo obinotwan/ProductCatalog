@@ -78,7 +78,7 @@ private readonly Dictionary<string, List<int>> _nameIndex = new();
 
 ---
 
-### 3. Fuzzy Search with Levenshtein Algorithm
+### 3. Fuzzy Search with Levenshtein Algorithm (this was apparently invented in a paper in 1965. I did not know this!)
 
 **Decision:** Implemented custom search using dynamic programming (no external libraries)
 
@@ -249,7 +249,7 @@ public record ProductDto(int Id, string Name, decimal Price);
 - Three-tier architecture
 
 ### Algorithms & Patterns
-- Levenshtein distance (dynamic programming)
+- Levenshtein distance (dynamic programming) *this took a lot of research
 - Repository pattern (generic)
 - Dependency injection
 - Observer pattern (RxJS)
@@ -340,11 +340,3 @@ This solution demonstrates professional three-tier architecture with CLEAN princ
 3. **Demonstrable Skills:** Custom algorithms, modern features
 4. **User Experience:** Fuzzy search, reactive UI
 5. **Code Quality:** SOLID principles, clean code
-
-The trade-offs made (in-memory storage, simple caching) are appropriate for a demonstration project while showing understanding of production alternatives.
-
----
-
-**Time Spent:** ~4-5 hours
-**Lines of Code:** ~3000 (backend + frontend)
-**Tests:** 11 unit tests (all passing)
